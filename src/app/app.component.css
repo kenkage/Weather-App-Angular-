@@ -1,0 +1,171 @@
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
+
+.bg-lightgray
+{
+    background-color:LightGray;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Montserrat', sans-serif;
+}
+a, a:hover, .btn{outline:none!important;}
+.btn-search{background: #FD3A13; border-color: #FD3A13; color: #fff; padding: 7px 10px}
+.btn-search:hover{background: #ca1b1b; border-color: #ca1b1b}
+
+/* body
+{
+background: url(https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/08/Windows_10_Weather_Apps.jpg?itok=I__1bBVI);
+} */
+.navbar-header
+{
+	font-size: 30px;
+}
+.navbar-light
+{
+	width: 100%;
+	position:relative;
+}
+
+.nav-item1
+{
+	font-size: 20px;
+	float: right;
+}
+
+.center-block
+{
+	width: 70px;
+	height: 70px;
+
+}
+
+.navbar-brand
+{
+	font-size: 25px;
+}
+.nav-tabs
+{
+	font-size: 30px;
+}
+
+.collapse.show {
+    width: 420px;
+}
+
+
+/* .footer{
+	 background:#05205E;
+	background-size: 100% 250px;
+	background-repeat: no-repeat;
+
+	height: 250px
+} */
+.emailid{
+	margin: 40px;
+}
+.emailid form input{
+	background: none;
+	border-color: white;
+	border-radius: 20px;
+
+	color: white;
+
+}
+.emailid form input:hover{
+	background:white;
+	color: black;
+
+}
+.emailid form button{
+	background: none;
+	border-color: white;
+	border-radius: 20px;
+
+	color: white;
+
+}
+.searchbar{
+	margin-left: 120px;
+}
+.backup{
+	background-color: rgba(245, 245, 245, 0.3);
+	border-radius: 40px;
+	color: white;
+	height: 110px;
+
+	margin: 5px;
+}
+.backup:hover{
+	background-color: rgba(245, 245, 245, 0.8);
+}
+.backup img{
+	width: 100px;
+	height: 100px;
+}
+.wm{
+    justify-content: center;
+}
+hr{
+	width: 75%;
+}
+
+.log
+{
+	padding-right: 40px;
+	font-size: 19px;
+}
+
+
+footer.nb-footer {
+	background: #222;
+	border-top: 4px solid #b78c33; }
+	footer.nb-footer .about {
+	margin: 0 auto;
+	margin-top: 40px;
+	max-width: 1170px;
+	text-align: center; }
+	footer.nb-footer .about p {
+	font-size: 13px;
+	color: #999;
+	margin-top: 30px; }
+	footer.nb-footer .about .social-media {
+	margin-top: 15px; }
+	footer.nb-footer .about .social-media ul li a {
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 50%;
+	font-size: 16px;
+	color: #b78c33;
+	border: 1px solid rgba(255, 255, 255, 0.3); }
+	footer.nb-footer .about .social-media ul li a:hover {
+	background: #b78c33;
+	color: #fff;
+	border-color: #b78c33; }
+	footer.nb-footer .footer-info-single {
+	margin-top: 30px; }
+	footer.nb-footer .footer-info-single .title {
+	color: #aaa;
+	text-transform: uppercase;
+	font-size: 16px;
+	border-left: 4px solid #b78c33;
+	padding-left: 5px; }
+	footer.nb-footer .footer-info-single ul li a {
+	display: block;
+	color: #aaa;
+	padding: 2px 0; }
+	footer.nb-footer .footer-info-single ul li a:hover {
+	color: #b78c33; }
+	footer.nb-footer .footer-info-single p {
+	font-size: 13px;
+	line-height: 20px;
+	color: #aaa; }
+	footer.nb-footer .copyright {
+	margin-top: 15px;
+	background: #111;
+	padding: 7px 0;
+	color: #999; }
+	footer.nb-footer .copyright p {
+	margin: 0;
+	padding: 0; }

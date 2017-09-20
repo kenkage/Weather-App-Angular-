@@ -1,0 +1,30 @@
+.kj {
+  font-family: 'Montserrat', sans-serif;
+  background:url("http://p1.pichost.me/i/11/1344899.jpg");
+  background-size: cover;
+  /* background-image:  url("http://p1.pichost.me/i/11/1344899.jpg") no-repeat;
+	background-size: cover; */
+}
+
+
+.kj > .kjhead{
+  padding-top: 30px;
+  position: relative;
+  color: #343434;
+  font-weight: normal;
+  font-family: 'Ultra', sans-serif;   
+  font-size: 60px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 0 5px white, 0 3px #777;
+}
+pagination-controls{
+  padding:30px;
+  font-size: 20px;
+ text-align: center;
+ position: relative;
+}
+pagination-controls li{
+color: white;
+}
